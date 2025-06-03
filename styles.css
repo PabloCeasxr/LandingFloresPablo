@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 25px;
+}
+
+h1 {
+    color: rgb(76, 161, 89);
+}
+
+ul {
+    list-style-type: square;
+}
